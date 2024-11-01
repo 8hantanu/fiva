@@ -1,0 +1,9 @@
+[package]
+name = "fiva"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24"
+ravif = { version = "0.11", default-features = false }
+rgb = "0.8"
